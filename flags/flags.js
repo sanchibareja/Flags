@@ -470,6 +470,6 @@ btn.addEventListener("click",()=>{
 });
 
 mainFrame.appendChild(inputBar);
-mainFrame.appendChild(btn);
+mainFrame.appendChild(btn); 
 mainFrame.appendChild(flagBox);
-//mainFrame.appendChild(getKoreaFlag());
+//mainFrame.appendChild(getKoreaFlag()); 
